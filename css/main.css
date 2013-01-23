@@ -1,0 +1,54 @@
+body {
+    font-family: verdana, arial, helvetica;
+    background: url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/debut_dark.png');
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14pt;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 130px;
+    font-size: 6em;
+}
+
+.page-content {
+    position: absolute;
+    top: 65px;
+    margin-left: 110px;
+}
+
+.stripe {
+    position:absolute;
+    left: 60px;
+    width: 7px;
+    height: 100%;
+    background-color: orange;
+}
+
+.bread-text {
+    display: block;
+    width: 450px;
+    margin-left: 5px;
+    color: #a9a9a9;
+    font-size: 1em;
+}
+
+.photo-panel {
+    position: absolute;
+    top: 265px;
+    left: 630px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li.photo {
+    width: 292px;
+    height: 342px;
+    border: 4px solid black;
+}
